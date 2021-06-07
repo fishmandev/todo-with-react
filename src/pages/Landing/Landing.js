@@ -25,6 +25,7 @@ const Landing = () => {
 
   return (
     <>
+      {/* Hero */}
       <section className="container h-screen mx-auto flex">
         <div className="flex flex-col mx-auto justify-center p-6 text-center">
           <p className="my-8 text-xl md:text-2xl lg:text-3xl font-medium">Introducing</p>
